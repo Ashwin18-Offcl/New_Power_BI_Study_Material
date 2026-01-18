@@ -70,7 +70,7 @@ This Power BI study material is crafted specifically for **Data Analysts**, focu
 Power BI is a leading business intelligence tool that helps analysts turn raw data into meaningful visuals and insights that drive decisions. 
 ---
 
-## 🧭 Power BI Study Flow (UI/UX Visual Representation)
+## 🧭 Power BI Study Flow 
 
 🔌 Data → 📊 Visuals → 🧠 DAX Logic → 🎛️ Interactivity → 📘 Insights → 🛠️ Practice
 
